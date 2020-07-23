@@ -1,7 +1,7 @@
 # SQLEssentials_GestionBasesDeDatos
 Evaluación de conceptos básicos sobre gestión de bases de datos
 
-Proyecto creado en SQL Developer en el que aplicó:
+Proyecto creado en SQL Developer en el que se aplica:
 1. 3ra forma normal
 2. Modelo lógico de la base de datos (utilizando http://draw.io)
 3. Creación del modelo en la base de datos con la inserción de: 5 clientes, 8 productos, 3 categorías, 10 facturas (2 para el cliente 1, con 2 y 3 productos; 
